@@ -85,7 +85,7 @@ class Settings(BaseSettings):
     RESET_DB_ON_STARTUP: bool = False
     ALLOWED_ORIGINS: str = "*"
     AI_PROVIDER: str = "mock"
-    OPENAI_API_KEY: str = ""
+    AI_MODEL_API_KEY: str = ""
 
     model_config = SettingsConfigDict(env_file=".env", extra="ignore")
 
