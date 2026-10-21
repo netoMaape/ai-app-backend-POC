@@ -21,8 +21,7 @@ Stop wasting time writing login routes and database models. Clone this repositor
 Clone the repository and navigate to the project directory:
 
 ```bash
-git clone https://github.com/netoMaape/generic-ai-poc-backend.git
-cd generic-ai-poc-backend
+git clone https://github.com/netoMaape/ai-app-backend-POC.git
 ```
 
 ### 2. Create and Activate a Virtual Environment
